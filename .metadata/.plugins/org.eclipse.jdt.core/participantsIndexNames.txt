@@ -1,0 +1,29 @@
+INDEX VERSION 1.130
+D:\Advance java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2958841702.index
+\jsp-scriptiing-element\src
+D:\Advance java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3584080473.index
+\testapp\src
+D:\Advance java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\496923373.index
+\maven-web-app\src\main\java
+D:\Advance java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2734910500.index
+\jsp-jstl\src
+D:\Advance java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3579229078.index
+\http-session-task\src
+D:\Advance java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\938948341.index
+\sessiontracking-by-cookies\src
+D:\Advance java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2877641477.index
+\hiddenfield-urlwriting\src
+D:\Advance java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4125773170.index
+\inquiry-app-mvc\src
+D:\Advance java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2298428069.index
+\hiddenfield-urlwriting-task\src
+D:\Advance java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\464513244.index
+\jsp-el\src
+D:\Advance java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\695443495.index
+\http-session-task\src
+D:\Advance java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2604069593.index
+\http-session\src
+D:\Advance java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2792250068.index
+\jsp-intro\src
+D:\Advance java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2534819939.index
+\maven-web-app\src\main\java

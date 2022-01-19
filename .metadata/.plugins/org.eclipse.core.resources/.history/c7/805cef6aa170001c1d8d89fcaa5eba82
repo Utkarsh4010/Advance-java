@@ -1,0 +1,5 @@
+package com.inquiry.util;
+
+public class DbConnectionUtil {
+
+}

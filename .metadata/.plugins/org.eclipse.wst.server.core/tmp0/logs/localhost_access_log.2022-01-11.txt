@@ -1,0 +1,2 @@
+127.0.0.1 - - [11/Jan/2022:10:56:40 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Jan/2022:10:56:42 +0530] "GET /hiddenfield-urlwriting/user-personal-info.jsp HTTP/1.1" 200 664
